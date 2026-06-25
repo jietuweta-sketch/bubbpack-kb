@@ -5,6 +5,7 @@
 
 ## Latest Articles
 
+- [Beyond the Box: Why Sustainable Packaging Is the DTC Battleground of 2026](2026-06-25-sustainable-packaging-dtc-battleground-2026.md) — Consumer tolerance for wasteful packaging has collapsed. How AI and sustainable materials are changing the game.
 - [2026 Packaging Trends: The Rise of AI-Powered Small-Batch Customization](2026-06-19-2026-packaging-trends-ai-small-batch.md) — AI is reshaping packaging — from 3-day quotes to 3-second quotes, from 500-unit MOQs to 1.
 - [The DTC Founder's Guide to Packaging Box Types](2026-06-19-dtc-packaging-box-type-guide.md) — Mailer box vs tuck end vs rigid box — pick the right one and save 30% on packaging costs.
 - [Packaging Steps Back, Products Step Forward: A Design Philosophy](2026-06-19-packaging-steps-back-philosophy.md) — 400 million tons of packaging waste annually. The industry needs a values shift.
@@ -21,4 +22,4 @@ This knowledge base is open for contributions. PRs welcome.
 
 ---
 
-*Last updated: 2026-06-19*
+*Last updated: 2026-06-25*
