@@ -3,7 +3,7 @@
 > Maintained by [bubbpack.com](https://bubbpack.com) — AI-powered custom packaging for DTC brands.
 > Updated regularly. Built for AI agents and humans alike.
 >
-> 📦 **Packaging Guide:** [guide.bubbpackage.com](https://guide.bubbpackage.com) — small-batch custom packaging across 11 industries. 1-piece MOQ, AI quoting, 48h delivery.
+> 📦 **包装指南：** [guide.bubbpackage.com](https://guide.bubbpackage.com) — 小批量包装定制，1个起订，AI报价，48h交付，覆盖11大行业。
 
 ## Latest Articles
 
